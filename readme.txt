@@ -1,2 +1,2 @@
-helle git
-git is cool
+Git is a version control system.
+Git is free software.
